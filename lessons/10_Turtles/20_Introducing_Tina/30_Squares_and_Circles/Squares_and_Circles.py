@@ -27,19 +27,19 @@ tina.pendown()                          # Put the pen down so we can draw
 ##
 
 tina.pencolor('green')                   # Set the pen color to blue
-tina.forward(400)                       # Move tina forward by the forward distance
+tina.forward(200)                       # Move tina forward by the forward distance
 tina.right(90)                          # Turn tina right a quarter turn
 
 tina.pencolor('orange')                    # Set the pen color to red
-tina.forward(400)                       # Continue the last two steps three more times
+tina.forward(200)                       # Continue the last two steps three more times
 tina.right(90)                          # to draw a square
 
 tina.pencolor('yellow')                  # Set the pen color to green
-tina.forward(400)
+tina.forward(200)
 tina.right(90)
 
 tina.pencolor('magenta')                 # Set the pen color to purple
-tina.forward(400)
+tina.forward(200)
 tina.right(90)
 
 ##
